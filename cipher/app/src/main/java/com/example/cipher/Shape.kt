@@ -5,3 +5,5 @@ abstract class Shape (
     val y: Int
 ) {
 }
+
+class Circle(x_value: Int, y_value:Int): Shape(x_value, y_value)
