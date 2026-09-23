@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="059f0361-c1f6-4b4b-a985-94e280ae7f07" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/cipher/app/src/main/java/com/example/cipher/Circle.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cipher/app/src/main/java/com/example/cipher/Shape.kt" beforeDir="false" afterPath="$PROJECT_DIR$/cipher/app/src/main/java/com/example/cipher/Shape.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -66,5 +67,16 @@
       <updated>1790121255343</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
