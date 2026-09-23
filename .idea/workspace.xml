@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="059f0361-c1f6-4b4b-a985-94e280ae7f07" name="Changes" comment="" />
+    <list default="true" id="059f0361-c1f6-4b4b-a985-94e280ae7f07" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cipher/app/src/main/java/com/example/cipher/Shape.kt" beforeDir="false" afterPath="$PROJECT_DIR$/cipher/app/src/main/java/com/example/cipher/Shape.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +19,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jham06"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/CMPUT301F26cipher/cipher-lab04.git",
+    "accountId": "778c4881-6d74-4979-9596-d7a3b16cbebb"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7,
   &quot;fromUser&quot;: false
@@ -34,10 +49,9 @@
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "com.google.services.firebase.aqiPopupShown": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "justin-circle",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/madisonlevy/AndroidStudioProjects/CMPUT301_Labs/cipher-lab04"
+    "last_opened_file_path": "C:/Users/Justin Ham/OneDrive/Desktop/CMPUT301 Labs/cipher-lab04"
   }
 }]]></component>
   <component name="TaskManager">
