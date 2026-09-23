@@ -6,6 +6,6 @@ abstract class Shape (
 ) {
 }
 
-class Triangle(x: Int, y: Int, val base: Int, val height: Int): Shape(x_value, y_value) {
+class Triangle(x: Int, y: Int, val base: Int, val height: Int): Shape(x, y) {
 
 }
